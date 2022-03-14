@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/pluralsight/webservice/models"
+	"github.com/fjinss/webservice/models"
 )
 
 func main() {

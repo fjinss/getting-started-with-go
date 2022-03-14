@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/pluralsight/webservice/models"
+	"github.com/fjinss/webservice/models"
 )
 
 type userController struct {
